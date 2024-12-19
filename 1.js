@@ -7,4 +7,5 @@ let hi=hello();
 const hello_from_arrow=()=>{
     console.log("hi");
 }
+console.log("hello")
 hello_from_arrow();
