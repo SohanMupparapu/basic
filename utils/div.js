@@ -7,3 +7,4 @@ const div=(a,b)=>{
     }
 }
 console.log(div(5,3));
+console.log("bye")
