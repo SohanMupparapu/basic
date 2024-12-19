@@ -9,3 +9,5 @@ const hello_from_arrow=()=>{
 }
 console.log("hello")
 hello_from_arrow();
+console.log("how are you");
+hello_from_arrow();
